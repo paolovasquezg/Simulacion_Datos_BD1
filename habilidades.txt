@@ -1,0 +1,239 @@
+Absorbe agua
+Absorbe electricidad
+Absorbe fuego
+Aclimataci�n
+Agallas
+Armadura batalla
+Ausente
+Bucle aire
+Cabeza roca
+Cacofon�a
+Cambio color
+Caparaz�n
+Chorro arena
+Clorofila
+Corte fuerte
+Cuerpo llama
+Cuerpo puro
+Cura lluvia
+Cura natural
+Despiste
+Dicha
+Efecto espora
+Electricidad est�tica
+Energ�a pura
+Enjambre
+Entusiasmo
+Escama especial
+Escudo magma
+Espesura
+Esp�ritu vital
+Flexibilidad
+Foco interno
+Fuga
+Gran encanto
+Hedor
+Humedad
+Humo blanco
+Iluminaci�n
+Impulso
+Im�n (habilidad)
+Inmunidad
+Insomnio
+Insonorizar
+Intimidaci�n
+Levitaci�n
+Llovizna
+Lodo l�quido
+Madrugar
+Mar llamas
+M�s
+Menos
+Mudar
+Nado r�pido
+Ojo compuesto
+Pararrayos
+Piel tosca
+Polvo escudo
+Potencia
+Predicci�n
+Presi�n
+Punto t�xico
+Rastro
+Recogida
+Ritmo propio
+Robustez
+Sebo
+Sequ�a
+Sincron�a
+Sombra trampa
+Superguarda
+Torrente
+Trampa arena
+Velo agua
+Velo arena
+Ventosas
+Viscosidad
+Vista lince
+Adaptable
+Afortunado
+Alerta
+Anticipaci�n
+Ant�doto (habilidad)
+Audaz
+Cacheo
+Colector
+Cromolente
+Defensa hoja
+Descarga
+Don floral
+Electromotor
+Encadenado
+Experto
+Filtro
+Francotirador
+Gula
+G�lido
+Hidrataci�n
+Ign�fugo
+Ignorante
+Impasible
+Indefenso
+Inicio lento
+Intr�pido
+Irascible
+Liviano
+Mal sue�o
+Manto n�veo
+Multitipo
+Muro m�gico
+Nevada
+Normalidad
+Piel seca
+Pies r�pidos
+Poder solar
+Pu�o f�rreo
+Recogemiel
+Resquicio
+Rezagado
+Rivalidad
+Roca s�lida
+Rompemoldes
+Simple
+Tumbos
+Zoquete
+Allanamiento
+Alma cura
+Armadura fr�gil
+Autoestima
+Bromista
+C�lculo final
+Cobard�a
+Compensaci�n
+Competitivo
+Compiescolta
+Cosecha
+Cuerpo maldito
+Espejo m�gico
+Flaqueza
+Funda
+Herb�voro
+Hurto
+Ilusi�n
+�mpetu ardiente
+�mpetu arena
+�mpetu t�xico
+Impostor
+Justiciero
+Metal liviano
+Metal pesado
+Modo Daruma
+Momia
+Nerviosismo
+Piel milagro
+Poder arena
+Potencia bruta
+Punta acero
+Regeneraci�n
+Respond�n
+Sacapecho
+Telepat�a
+Terravoltaje
+Tinovictoria
+Toque t�xico
+Turbollama
+Veleta
+Alas vendaval
+Antibalas
+Amor filial
+Aura fe�rica
+Aura oscura
+Baba
+Cambio t�ctico
+Carrillo
+Garra dura
+Mar del albor
+Megadisparador
+Mand�bula fuerte
+Manto frondoso
+Mutatipo
+Pelaje recio
+Piel celeste
+Piel fe�rica
+Piel helada
+Prestidigitador
+R�faga delta
+Rompeaura
+Simbiosis
+Tenacidad
+Tierra del ocaso
+Velo aroma
+Velo dulce
+Velo flor
+Acero templado
+Agrupamiento
+Armadura prisma
+Banco
+Bater�a
+Cola surf
+C�lera
+Cor�nima
+Corrosi�n
+Cuerpo v�vido
+Disfraz
+Electrog�nesis
+Ensa�amiento
+Escudo limitado
+Firmeza
+Fuerte afecto
+Guardia espectro
+Guardia met�lica
+Herbog�nesis
+Hidrorrefuerzo
+Huida
+Letargo perenne
+Nebulog�nesis
+Pareja de baile
+Peluche
+Piel el�ctrica
+Pompa
+Primer auxilio
+Psicog�nesis
+Quitanieves
+Reacci�n qu�mica
+Receptor
+Regia presencia
+Remoto
+Retirada
+Rev�s
+Rizos rebeldes
+Sistema alfa
+Ultraimpulso
+Vigilante
+Voz fluida
+Pelusa
+Recogebolas
+Combustible
+Mutapetito
+Gas reactivo
+Coraza reflejo
